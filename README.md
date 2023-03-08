@@ -1,5 +1,7 @@
 # das manual
+animation annotations that can make a specific scene by using hkanno64 Animation Annotation Tools (https://www.nexusmods.com/skyrimspecialedition/mods/54244)
 
+## annotations
 SetAnim
 	@SetAnim&{nm="",loop=3.0,face="",sos=""}
 
@@ -54,5 +56,6 @@ PlayCstBgSnd
 PlayBumpEvt
 	@PlayBumpEvt&forward
 
+## examples
 
 	 
