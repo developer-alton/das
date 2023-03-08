@@ -22,7 +22,7 @@ PlaySnd
 
     		- oh, ah, ee
     	eyes
-    		- closed, up, down, left, right, center, reset
+    		- closed, up, upleft, upright, down, downleft, downright, left, right, center, reset
     	mouth
     		- closed, tiny, small, middle, big, reset
     	tongue    	
