@@ -1,4 +1,4 @@
-# das manual
+# DAS manual
 animation annotations that can make a specific scene by using hkanno64 Animation Annotation Tools (https://www.nexusmods.com/skyrimspecialedition/mods/54244)
 
 ## annotations
