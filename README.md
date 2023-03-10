@@ -15,8 +15,8 @@ PlayEvt
 
 PlaySnd
 	@playSnd&{md="", tp="",nm="",vol=0.1,expression="",eyes="",mouth="",tongue="",sos="",topic=""}
-    	expression
-    		- happy, smile, lwink(rwink), disguised, surprised, scary, angry, pain (painMild, painStrong), shamed, concentrate, embarrased
+    	expression ㅁㅈㅇ 
+    		- happy, smile, lwink(rwink), disguised, surprised, scary, angry, pain (painMild, painStrong), shamed, concentrate, embarrased, cute
 
     		- kiss, aroused, moan, moanMild, moanStrong, orgasm
 
